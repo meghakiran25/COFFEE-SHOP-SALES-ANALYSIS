@@ -23,4 +23,6 @@ The objective of this project is to analyze and visualize coffee sales data to u
 6. Saturdays see the lowest number of orders.
 
 **Conclusion**
+
+
 To boost business performance, targeted morning promotions and special weekend events are recommended. Expanding popular products like Barista Espresso and diversifying coffee and tea offerings can drive sales. Reassessing small-sized products and employing strategies to increase average order sizes are essential for enhancing overall profitability.
