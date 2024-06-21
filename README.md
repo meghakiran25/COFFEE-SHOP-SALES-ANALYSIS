@@ -3,4 +3,5 @@
 
 
 **Objective**
+
 The objective of this project is to analyze and visualize coffee sales data to understand trends, patterns, and insights that can help in decision-making for business strategies.
